@@ -62,6 +62,54 @@
         },
         {
             "boost": true,
+            "country": "Kuwait",
+            "geo": [
+                48.12399,
+                29.107061
+            ],
+            "id": "ZMxcKuuD",
+            "size": 1,
+            "title": "Mangaf",
+            "url": "/visit/mangaf/ZMxcKuuD"
+        },
+        {
+            "boost": true,
+            "country": "Kuwait",
+            "geo": [
+                47.67553,
+                29.336573
+            ],
+            "id": "9KMYokOq",
+            "size": 1,
+            "title": "Al Jahra",
+            "url": "/visit/al-jahra/9KMYokOq"
+        },
+        {
+            "boost": true,
+            "country": "Kuwait",
+            "geo": [
+                47.977406,
+                29.375858
+            ],
+            "id": "K1zI2Bsg",
+            "size": 3,
+            "title": "Kuwait City",
+            "url": "/visit/kuwait-city/K1zI2Bsg"
+        },
+        {
+            "boost": true,
+            "country": "Kuwait",
+            "geo": [
+                48.07156,
+                29.335295
+            ],
+            "id": "yEPJgQbg",
+            "size": 2,
+            "title": "Salmiya",
+            "url": "/visit/salmiya/yEPJgQbg"
+        },
+        {
+            "boost": true,
             "country": "Egypt",
             "geo": [
                 31.208853,
